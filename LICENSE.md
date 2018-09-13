@@ -1,0 +1,1 @@
+Data files are derived from the *University of Leeds Corpus*, found [here](http://corpus.leeds.ac.uk/frqc/internet-jp.num), and distributed under the [Creative Commons (CC BY) Attribution](https://creativecommons.org/licenses/by/2.5/) license. Corpus editing and cleanup by William Hingston.
